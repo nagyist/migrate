@@ -1,4 +1,4 @@
-module github.com/nagyistzcons/migrate/v4
+module github.com/nagyist/migrate/v4
 
 require (
 	cloud.google.com/go v0.77.0 // indirect

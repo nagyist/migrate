@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	st "github.com/nagyistzcons/migrate/v4/source/testing"
+	st "github.com/nagyist/migrate/v4/source/testing"
 )
 
 func Test(t *testing.T) {

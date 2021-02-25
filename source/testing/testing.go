@@ -8,7 +8,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nagyistzcons/migrate/v4/source"
+	"github.com/nagyist/migrate/v4/source"
 )
 
 // Test runs tests against source implementations.

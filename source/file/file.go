@@ -6,8 +6,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nagyistzcons/migrate/v4/source"
-	"github.com/nagyistzcons/migrate/v4/source/httpfs"
+	"github.com/nagyist/migrate/v4/source"
+	"github.com/nagyist/migrate/v4/source/httpfs"
 )
 
 func init() {
